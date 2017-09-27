@@ -5,7 +5,7 @@
 
 Welcome to Lifesequencing workflows's documentation!
 ====================================================
-
+Hola mundo
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
